@@ -86,7 +86,7 @@ Dessa forma, posso manter um **registro organizado** da minha evolução acadêm
 - [**Organização de Computadores**](./semestre-04/organizacao-de-computadores)
 - [**Programação Web**](./semestre-04/programacao-web)    
 
-### 📌 **[Quinto Semestre](./semestre-05/README.md)**
+### 📌 **[Quinto Semestre (Atualmente cursando)](./semestre-05/README.md)**
 - [**Banco de Dados II**](./semestre-05/banco-de-dados-2)   
 - Engenharia de Software II  
 - Estatística  
