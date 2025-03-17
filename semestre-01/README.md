@@ -13,9 +13,9 @@ Este repositório contém os trabalhos e projetos desenvolvidos durante o primei
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🚀 Projetos e Trabalhos
-- **[Trabalho 1 - Jogo Livro](./algoritmos-e-programacao/jogo-livro/jogo_livro.cpp)**
-- **[Trabalho 2 - Flappy Bird](./algoritmos-e-programacao/flappy-bird/flappy_bird.cpp)**
-- **[Trabalho 3 - Jogo Da Memória](./algoritmos-e-programacao/jogo-da-memoria/jogo_da_memoria.cpp)**
+- **[Trabalho 1 - Jogo Livro](./algoritmos-e-programacao/01-jogo-livro/jogo_livro.cpp)**
+- **[Trabalho 2 - Flappy Bird](./algoritmos-e-programacao/02-flappy-bird/flappy_bird.cpp)**
+- **[Trabalho 3 - Jogo Da Memória](./algoritmos-e-programacao/03-jogo-da-memoria/jogo_da_memoria.cpp)**
 
 ## ℹ️ Sobre os Projetos e Trabalhos
 **Trabalho 1 - Jogo Livro:** O nosso primeiro trabalho foi criar um Jogo Livro, que em resumo é um jogo simples baseado em história e escolhas, como era o primeiro trabalho nosso e como a gente só tinha apredendidos poucas coisas, só usamos a sintaxe básica do C++.
