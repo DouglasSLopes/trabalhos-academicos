@@ -61,37 +61,37 @@ Dessa forma, posso manter um **registro organizado** da minha evolução acadêm
 
 ### 📌 **[Primeiro Semestre](./semestre-01/README.md)**
 - Álgebra Linear e Geometria Analítica I 
-- [**Algoritmos e Programação**](./semestre-01/algoritmos-e-programacao)   
+- [**Algoritmos e Programação**](./semestre-01)   
 - Educação Ambiental e Ética  
 - Introdução à Ciência da Computação  
 - Matemática Computacional  
 
 ### 📌 **[Segundo Semestre](./semestre-02/README.md)**
-- [**Algoritmos e Programação II**](./semestre-02/algoritmos-e-programacao-2)   
+- [**Algoritmos e Programação II**](./semestre-02)   
 - Cálculo I  
 - Circuitos Digitais  
-- [**Introdução à Programação em Python**](./semestre-02/introducao-a-programacao-em-python)    
+- [**Introdução à Programação em Python**](./semestre-02)
 
 ### 📌 **[Terceiro Semestre](./semestre-03/README.md)**
-- [Arquitetura e Organização de Processadores](./semestre-03/arquitetura-e-organizacao-de-processadores)
+- [Arquitetura e Organização de Processadores](./semestre-03)
 - Cálculo II  
 - [**Estruturas de Dados**](./semestre-03/estrutura-de-dados)   
-- [**Paradigmas de Programação**](./semestre-03/paradigmas-de-programacao)  
-- [**Programação Orientada a Objetos**](./semestre-03/programacao-orientada-a-objetos)    
+- [**Paradigmas de Programação**](./semestre-03)  
+- [**Programação Orientada a Objetos**](./semestre-03)    
 
 ### 📌 **[Quarto Semestre](./semestre-04/README.md)**
-- [**Banco de Dados**](./semestre-04/banco-de-dados)    
+- [**Banco de Dados**](./semestre-04)    
 - Cálculo Numérico  
 - Engenharia de Software I  
-- [**Organização de Computadores**](./semestre-04/organizacao-de-computadores)
-- [**Programação Web**](./semestre-04/programacao-web)    
+- [**Organização de Computadores**](./semestre-04)
+- [**Programação Web**](./semestre-04)    
 
 ### 📌 **[Quinto Semestre (Atualmente cursando)](./semestre-05/README.md)**
-- [**Banco de Dados II**](./semestre-05/banco-de-dados-2)   
+- [**Banco de Dados II**](./semestre-05)   
 - Engenharia de Software II  
 - Estatística  
-- [**Programação para Dispositivos Móveis**](./semestre-05/programacao-para-dispositivos-moveis)    
-- [**Sistemas Operacionais**](./semestre-05/sistemas-operacionais)  
+- [**Programação para Dispositivos Móveis**](./semestre-05)    
+- [**Sistemas Operacionais**](./semestre-05)  
 
 ### 📌 **Sexto Semestre**
 Ainda não cursado.  
