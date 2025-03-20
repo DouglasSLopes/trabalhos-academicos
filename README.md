@@ -73,7 +73,7 @@ Dessa forma, posso manter um **registro organizado** da minha evolução acadêm
 - [**Introdução à Programação em Python**](./semestre-02)
 
 ### 📌 **[Terceiro Semestre](./semestre-03/README.md)**
-- [Arquitetura e Organização de Processadores](./semestre-03)
+- [**Arquitetura e Organização de Processadores**](./semestre-03)
 - Cálculo II  
 - [**Estruturas de Dados**](./semestre-03/estrutura-de-dados)   
 - [**Paradigmas de Programação**](./semestre-03)  
